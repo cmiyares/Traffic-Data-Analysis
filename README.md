@@ -1,7 +1,7 @@
 # Traffic-Data-Analysis
 
 Traffic Analysis Project
-The main project for this study can be found in Traffic-Analysis.md.
+The main project and analysis for this study can be found [here](Traffic-Analysis.md).
 
 Objective
 The objective of this study was to investigate the relationship between weather conditions and traffic accidents in the United States, 
